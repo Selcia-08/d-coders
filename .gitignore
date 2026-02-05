@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+# Database
+database.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Any other local files
+.env
+plugin/__pycache__/
+static/
+templates/
+app1.py
